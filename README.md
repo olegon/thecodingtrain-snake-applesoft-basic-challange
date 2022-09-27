@@ -1,6 +1,6 @@
 # The Coding Train - AppleSoft Basic Snake Game Challange
 
-How was coding like 40 years ago? In my opinion, besides modern software complexity, modern tools makes our life easier. While I was coding this challange, I've missed our modern debuggings tools!
+How was coding like 40 years ago? In my opinion, besides modern software complexity, modern tools make our life easier. While I was coding this challange, I've missed a lot our modern debuggings tools!
 
 ![running software](./running_picture.png)
 
